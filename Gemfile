@@ -13,3 +13,8 @@ gemspec
 
 # To use a debugger
 # gem 'byebug', group: [:development, :test]
+
+gem 'ahoy_email'
+gem 'letter_opener'
+gem 'roadie', '~> 3.4'
+gem 'sidekiq'

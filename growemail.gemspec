@@ -8,10 +8,10 @@ Gem::Specification.new do |s|
   s.name        = "growemail"
   s.version     = Growemail::VERSION
   s.authors     = ["Simon Chiu"]
-  s.email       = ["simononstartups@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Growemail."
-  s.description = "TODO: Description of Growemail."
+  s.email       = ["simon@growemail.com"]
+  # s.homepage    = "TODO"
+  s.summary     = "Mountable engine for Rails apps to manage application mailing lists and outbound marketing emails"
+  # s.description = "TODO: Description of Growemail."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
